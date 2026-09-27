@@ -1,9 +1,6 @@
 - 👋 Hi, I’m @Demonphoenix-cyber
 - 👀 I’m interested in ...cybersecurity, ethical hacking, coding
-- 🌱 I’m currently learning ...python,
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-- 😄 Pronouns: ...he
+- 🌱 I’m currently exploring ...cybersecurity,
 - ⚡ Fun fact: ...i love to learn new things
 
 <!---
